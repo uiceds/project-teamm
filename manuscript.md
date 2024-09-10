@@ -7,8 +7,10 @@ keywords:
 lang: en-US
 date-meta: '2024-09-10'
 author-meta:
-- Testing
-- Jane Roe
+- Maverik Davids
+- Maxwell Harris
+- Steve Bae
+- Will Valenziano
 header-includes: |
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
@@ -23,31 +25,27 @@ header-includes: |
   <meta name="dc.date" content="2024-09-10" />
   <meta name="citation_publication_date" content="2024-09-10" />
   <meta property="article:published_time" content="2024-09-10" />
-  <meta name="dc.modified" content="2024-09-10T18:12:16+00:00" />
-  <meta property="article:modified_time" content="2024-09-10T18:12:16+00:00" />
+  <meta name="dc.modified" content="2024-09-10T18:20:30+00:00" />
+  <meta property="article:modified_time" content="2024-09-10T18:20:30+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="Testing" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="Maverik Davids" />
+  <meta name="citation_author" content="Maxwell Harris" />
+  <meta name="citation_author" content="Steve Bae" />
+  <meta name="citation_author" content="Will Valenziano" />
   <link rel="canonical" href="https://uiceds.github.io/project-teamm/" />
   <meta property="og:url" content="https://uiceds.github.io/project-teamm/" />
   <meta property="twitter:url" content="https://uiceds.github.io/project-teamm/" />
   <meta name="citation_fulltext_html_url" content="https://uiceds.github.io/project-teamm/" />
   <meta name="citation_pdf_url" content="https://uiceds.github.io/project-teamm/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://uiceds.github.io/project-teamm/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://uiceds.github.io/project-teamm/v/c2cf33b57feed951a1c1a5cf426f9ab7954e58b4/" />
-  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/project-teamm/v/c2cf33b57feed951a1c1a5cf426f9ab7954e58b4/" />
-  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/project-teamm/v/c2cf33b57feed951a1c1a5cf426f9ab7954e58b4/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://uiceds.github.io/project-teamm/v/5765f6d1c308cfe257bd9bfa3b273423bfd7e64c/" />
+  <meta name="manubot_html_url_versioned" content="https://uiceds.github.io/project-teamm/v/5765f6d1c308cfe257bd9bfa3b273423bfd7e64c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://uiceds.github.io/project-teamm/v/5765f6d1c308cfe257bd9bfa3b273423bfd7e64c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +67,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://uiceds.github.io/project-teamm/v/c2cf33b57feed951a1c1a5cf426f9ab7954e58b4/))
+([permalink](https://uiceds.github.io/project-teamm/v/5765f6d1c308cfe257bd9bfa3b273423bfd7e64c/))
 was automatically generated
-from [uiceds/project-teamm@c2cf33b](https://github.com/uiceds/project-teamm/tree/c2cf33b57feed951a1c1a5cf426f9ab7954e58b4)
+from [uiceds/project-teamm@5765f6d](https://github.com/uiceds/project-teamm/tree/5765f6d1c308cfe257bd9bfa3b273423bfd7e64c)
 on September 10, 2024.
 </em></small>
 
@@ -81,39 +79,41 @@ on September 10, 2024.
 
 
 
-+ **Testing**
++ **Maverik Davids**
   <br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon width=16 height=16}
-    [johndoe](https://twitter.com/johndoe)
-    · ![Mastodon icon](images/mastodon.svg){.inline_icon width=16 height=16}
-    [\@johndoe@mastodon.social](https://mastodon.social/@johndoe)
+    [Maveriikk02](https://github.com/Maveriikk02)
     <br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
   </small>
 
-+ **Jane Roe**
-  ^[✉](#correspondence)^<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
++ **Maxwell Harris**
+  <br>
     · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
-    [janeroe](https://github.com/janeroe)
+    [Maveriikk02](https://github.com/Maveriikk02)
     <br>
   <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
+  </small>
+
++ **Steve Bae**
+  <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [sbae2002](https://github.com/sbae2002)
+    <br>
+  <small>
+  </small>
+
++ **Will Valenziano**
+  <br>
+    · ![GitHub icon](images/github.svg){.inline_icon width=16 height=16}
+    [wmvalenziano](https://github.com/wmvalenziano)
+    <br>
+  <small>
   </small>
 
 
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/uiceds/project-teamm/issues)
-or email to
-Jane Roe \<jane.roe@whatever.edu\>.
-
 
 :::
 
